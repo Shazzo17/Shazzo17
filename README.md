@@ -33,7 +33,7 @@ git commit -m "Actualización de prácticas"
 
 # Subo los cambios al repositorio central
 git push origin main
+📬 Contacto
+GitHub: Shazzo17
 
-## 📬 Contacto
-* **GitHub:** [Shazzo17](https://github.com/Shazzo17)
-* **Email:** miguelsaezwork@gmail.com
+Email: miguelsaezwork@gmail.com
