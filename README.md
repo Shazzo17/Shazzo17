@@ -4,13 +4,13 @@
 Técnico en Sistemas Microinformáticos y Redes (SMR) y actualmente cursando 1º de Desarrollo de Aplicaciones Web (DAW). Mi vocación por la tecnología nació desde pequeño, impulsada por mi afición a los ordenadores y los videojuegos. Lo que comenzó como una curiosidad por montar hardware y llevar los equipos a su máximo rendimiento, se ha transformado en un perfil técnico completo. Gracias a mi formación híbrida, combino la administración de sistemas, servidores y redes con el desarrollo de software y la programación.
 
 ## 🛠️ Habilidades
-* **Sistemas Operativos:** `` `Windows (7, 10, 11, Server 2016)` ``, `` `Ubuntu / Ubuntu Server` ``, `` `Linux Mint` ``, `` `Fedora` `` y experiencia explorando diversas distribuciones.
-* **Virtualización y Contenedores:** Despliegue de entornos aislados y máquinas virtuales utilizando `` `Docker` `` y `` `VirtualBox` ``.
-* **Control de Versiones:** Dominio de `` `Git` `` y gestión avanzada de repositorios en `` `GitHub` ``.
-* **Redes, Servidores y Seguridad:** Diseño de redes, *subnetting*, administración de usuarios/permisos y manejo de herramientas de análisis como `` `Maltego` ``.
+* **Sistemas Operativos:** `Windows (7, 10, 11, Server 2016)`, `Ubuntu / Ubuntu Server`, `Linux Mint`, `Fedora` y experiencia explorando diversas distribuciones.
+* **Virtualización y Contenedores:** Despliegue de entornos aislados y máquinas virtuales utilizando `Docker` y `VirtualBox`.
+* **Control de Versiones:** Dominio de `Git` y gestión avanzada de repositorios en `GitHub`.
+* **Redes, Servidores y Seguridad:** Diseño de redes, *subnetting*, administración de usuarios/permisos y manejo de herramientas de análisis como `Maltego`.
 * **Hardware:** Montaje, desmontaje, diagnóstico y optimización de equipos informáticos.
-* **Desarrollo y Scripting:** `` `HTML5` ``, `` `CSS3` ``, `` `JavaScript` ``, `` `Java` `` y creación de *scripts* de automatización en entornos Linux.
-* **Bases de Datos:** `` `MySQL` ``, `` `Oracle` ``, `` `PL/SQL` ``
+* **Desarrollo y Scripting:** `HTML5`, `CSS3`, `JavaScript`, `Java` y creación de *scripts* de automatización en entornos Linux.
+* **Bases de Datos:** `MySQL`, `Oracle`, `PL/SQL`
 
 ## 🚀 Proyectos y Repositorios
 * **Repositorios Académicos:** Mantengo un archivo estructurado en GitHub que unifica toda mi progresión técnica. En él alojo tanto las configuraciones, uso de utilidades IT y montajes de mi etapa en SMR, como los desarrollos de mi actual formación en DAW.
@@ -33,7 +33,8 @@ git commit -m "Actualización de prácticas"
 
 # Subo los cambios al repositorio central
 git push origin main
-📬 Contacto
-GitHub: Shazzo17
+```
 
-Email: miguelsaezwork@gmail.com
+## 📬 Contacto
+* **GitHub:** [Shazzo17](https://github.com/Shazzo17)
+* **Email:** miguelsaezwork@gmail.com
