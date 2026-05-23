@@ -38,7 +38,7 @@ git push origin main
 ```
 
 ## 📬 Contact
-* **GitHub:** [ImShazzo](https://github.com/ImShazzo)
+* **GitHub:** [imShazzo](https://github.com/imShazzo)
 * **Email:** miguelsaezwork@gmail.com
 
 ---
@@ -83,5 +83,5 @@ git push origin main
 ```
 
 ## 📬 Contacto
-* **GitHub:** [ImShazzo](https://github.com/ImShazzo)
+* **GitHub:** [imShazzo](https://github.com/imShazzo)
 * **Email:** miguelsaezwork@gmail.com
